@@ -13,7 +13,7 @@ export default class Dog {
         this.weight = weight;
     }
     sound() {
-        console.log("Dog is making barking")
+        console.log("Dogs make barking")
     }
 }
 
