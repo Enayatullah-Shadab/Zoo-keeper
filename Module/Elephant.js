@@ -1,4 +1,4 @@
-export class Elephant {
+export default class Elephant {
     /**
      * @param {String} name 
      * @param {String} type 

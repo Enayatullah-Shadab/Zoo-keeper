@@ -1,4 +1,4 @@
-export class Buffalo {
+export default class Buffalo {
     /**
      * @param {String} name 
      * @param {String} type 

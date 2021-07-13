@@ -1,4 +1,4 @@
-export class Cat {
+export default class Cat {
     /**
      * @param {String} name 
      * @param {String} type 

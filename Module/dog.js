@@ -1,4 +1,4 @@
-export class Dog {
+export default class Dog {
     /**
      * @param {String} name 
      * @param {String} type 
